@@ -6,7 +6,7 @@ Project Description :-
 professional background.It also contains contact information as well.
 
 	I have used just HTML and CSS to complete this static webpage project.
-Also hosted on my github profile and the link is :- 
+Also hosted on my github profile and the link is :- https://mathmyth.github.io/personal_info/
 
 
 Table of Contents:-
@@ -27,13 +27,13 @@ How to run/view the project :-
 	Steps:-
 		
 		1).You can either go through the following link to see the work that has been done.
-			Link:-
+			Link:- https://mathmyth.github.io/personal_info/
 		or
 		
 		2). We can run index.html file to see the work.
 		
-		3).In the project you can download the file with the download button and also print the file with print button.
-			Print will download coloured file/with background as we can see live and download button simply will download without background.
+		3).Now In the project, you can download the file with the download button and also print the file with print button.
+			
 
 
 Webpage Owner :- 
