@@ -22,7 +22,7 @@ The root folder contains following files & directories:-
 
 How to run/view the project :-
 	
-	Recommended Browser :- Google Chrome/Mozilla Firefox (Both should be updated one)
+	Recommended Browser :- Google Chrome/Mozilla Firefox (Both should be updated one)[For perfect results Open with desktop or use mobile device with desktop site and also use that device in horizontal mode.]
 	
 	Steps:-
 		
